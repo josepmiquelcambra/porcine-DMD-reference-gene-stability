@@ -3,10 +3,32 @@ message: "If you use this software, please cite it using the metadata below."
 title: "Reference gene stability analysis in a porcine DMD model"
 type: software
 version: 1.0.0
+doi: 10.5281/zenodo.22706354
 
 authors:
-  - family-names: "Cambra Bort"
-    given-names: "Josep Miquel"
+  - family-names: "Barbosa"
+    given-names: "Igor Neves"
+
+  - family-names: "Blasi"
+    given-names: "Michaela"
+
+  - family-names: "Hristov"
+    given-names: "Hristiyan"
+
+  - family-names: "Ali"
+    given-names: "Asghar"
+
+  - family-names: "Klymiuk"
+    given-names: "Nikolai"
+
+  - family-names: "Wolf"
+    given-names: "Eckhard"
+
+  - family-names: "Cambra"
+    given-names: "Josep M."
+
+  - family-names: "Jaudas"
+    given-names: "Florian"
 
 repository-code: "https://github.com/josepmiquelcambra/porcine-DMD-reference-gene-stability"
 url: "https://github.com/josepmiquelcambra/porcine-DMD-reference-gene-stability"
