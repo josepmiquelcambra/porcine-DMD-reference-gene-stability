@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Reference gene stability analysis in a porcine DMD model"
+type: software
+version: 1.0.0
+
+authors:
+  - family-names: "Cambra Bort"
+    given-names: "Josep Miquel"
+
+repository-code: "https://github.com/josepmiquelcambra/porcine-DMD-reference-gene-stability"
+url: "https://github.com/josepmiquelcambra/porcine-DMD-reference-gene-stability"
+
+license: MIT
+
+abstract: >-
+  R code used to reproduce reference-gene stability analyses in skeletal
+  and cardiac muscle from a porcine Duchenne muscular dystrophy (DMD) model.
+  The workflow includes input validation, quality-control analyses,
+  visualization, BestKeeper-derived analysis, geNorm, NormFinder,
+  comparative Delta Ct, a Weighted Stability Index (WSI),
+  a Consensus Stability Score (CSS), and CSS-guided pairwise variation
+  analysis.
+
+keywords:
+  - qPCR
+  - reference genes
+  - housekeeping genes
+  - Duchenne muscular dystrophy
+  - porcine model
+  - BestKeeper
+  - geNorm
+  - NormFinder
+  - Delta Ct
+  - R
