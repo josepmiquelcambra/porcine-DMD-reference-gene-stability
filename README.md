@@ -288,9 +288,7 @@ For long-term reproducibility, the version of the repository associated with the
 
 If you use this code, please cite the associated publication and the archived Zenodo software release.
 
-**Zenodo DOI:** to be added after the first archived release.
-
-A formal software citation can be added here once the Zenodo DOI has been generated.
+**Zenodo DOI:** https://doi.org/10.5281/zenodo.22706354
 
 ## License
 
